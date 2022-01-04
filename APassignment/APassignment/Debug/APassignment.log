@@ -1,0 +1,31 @@
+﻿  APassignment.cpp
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(22,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\callu\source\repos\APassignment\APassignment\Account.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\callu\source\repos\APassignment\APassignment\Transaction.h(69,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\Transaction.h(189,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\Transaction.h(206,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(23,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\callu\source\repos\APassignment\APassignment\Savings.h(54,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\callu\source\repos\APassignment\APassignment\Savings.h(34,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\Savings.h(42,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\Savings.h(45,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(24,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(103,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(146,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(158,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 155
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(197,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(202,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 199
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(245,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(252,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 247
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(279,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(290,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 286
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(313,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(314,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(322,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 317
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(377,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 373
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(426,4): warning C4286: 'std::out_of_range': is caught by base class ('std::logic_error') on line 423
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(170,8): warning C4101: 'indexChoice': unreferenced local variable
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(213,8): warning C4101: 'indexChoice': unreferenced local variable
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(268,8): warning C4101: 'indexChoice2': unreferenced local variable
+C:\Users\callu\source\repos\APassignment\APassignment\APassignment.cpp(333,8): warning C4101: 'indexChoice': unreferenced local variable
+  APassignment.vcxproj -> C:\Users\callu\source\repos\APassignment\Debug\APassignment.exe
